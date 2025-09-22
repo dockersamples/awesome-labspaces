@@ -28,7 +28,7 @@ jobs:
         working-directory: generator
 
       - name: Run generator
-        run: node generators/index.js
+        run: node generator/index.js
 
       - name: Commit and push updated README
         run: |
