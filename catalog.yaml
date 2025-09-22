@@ -19,6 +19,7 @@ labspaces:
     level: Beginner
     tags:
       - getting-started
+    highlighted: true
 
   - title: Using MCP Servers with the MCP Gateway
     description: |
@@ -32,3 +33,4 @@ labspaces:
       - ai
       - mcp-gateway
       - getting-started
+    highlighted: true

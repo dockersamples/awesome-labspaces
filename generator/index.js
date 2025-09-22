@@ -29,6 +29,7 @@ async function validate() {
                 .max(new Date(), { error: "Can't have a future date" }),
             level: zod.enum(['Beginner', 'Intermediate', 'Advanced']),
             tags: zod.array(zod.enum(availableTags)),
+            highlighted: zod.boolean().optional().default(false),
         })
     );
     
