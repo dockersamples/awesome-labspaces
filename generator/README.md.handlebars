@@ -1,0 +1,31 @@
+# Awesome Labspaces
+
+This repository contains a collection of awesome Labspaces. Each Labspace is designed to provide hands-on experience and practical knowledge in a specific area.
+
+## Opening a Labspace
+
+To open a Labspace, you can use the following Compose command:
+
+```bash
+docker compose -f oci://${PUBLISHED_REPO} up
+```
+
+If you have the Docker Desktop extension installed, you can click the "Open in Docker Desktop" link with each listing.
+
+## The Awesome List
+
+**Skill level**: &nbsp;⭐⭑⭑ - Beginner &nbsp; ⭐⭐⭑ - Intermediate &nbsp; ⭐⭐⭐ - Advanced
+
+Each Labspace is categorized by tags. Below is the list of available Labspaces (a single Labspace may be in multiple categories):
+
+{{#each tags}}
+### **{{this.label}}**
+
+{{#each this.labspaces}}
+- {{difficultyStars this.level}} [{{this.title}}]({{this.repo}}) ({{this.author}})
+    - {{trim this.description}}
+    - Published repo: `{{this.publishedRepo}}`
+    - {{ddLink this}}
+{{/each}}
+
+{{/each}}

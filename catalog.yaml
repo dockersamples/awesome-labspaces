@@ -1,0 +1,34 @@
+tags:
+  - name: ai
+    label: AI
+  - name: dmr
+    label: Docker Model Runner
+  - name: getting-started
+    label: Getting Started
+  - name: mcp-gateway
+    label: MCP Gateway
+
+labspaces:
+  - title: Container-supported development
+    description: |
+      Run databases, debug tools, and more across your entire team with minimal setup.
+    repo: https://github.com/dockersamples/labspace-container-supported-development
+    publishedRepo: dockersamples/labspace-container-supported-development
+    author: Docker
+    datePublished: 2025-09-16
+    level: Beginner
+    tags:
+      - getting-started
+
+  - title: Using MCP Servers with the MCP Gateway
+    description: |
+      Learn how to use the Docker MCP Gateway to provide your agentic applications with the tools they need to perform complex tasks.
+    repo: https://github.com/dockersamples/labspace-mcp-gateway
+    publishedRepo: dockersamples/labspace-mcp-gateway
+    author: Docker
+    datePublished: 2025-09-18
+    level: Beginner
+    tags:
+      - ai
+      - mcp-gateway
+      - getting-started

@@ -1,0 +1,26 @@
+{
+  "name": "awesome-labspaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesir87/awesome-labspaces.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mikesir87/awesome-labspaces/issues"
+  },
+  "homepage": "https://github.com/mikesir87/awesome-labspaces#readme",
+  "description": "",
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "yaml": "^2.8.1",
+    "zod": "^4.1.9"
+  }
+}
