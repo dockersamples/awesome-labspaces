@@ -1,12 +1,14 @@
 name: Rebuild README
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
     paths:
       - catalog.yaml
       - generator/README.md.handlebars
+      - .github/workflows/rebuild-readme.yaml
 
 permissions:
   contents: write
