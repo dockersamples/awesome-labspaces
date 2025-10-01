@@ -45,3 +45,10 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Published repo: `dockersamples/labspace-mcp-gateway`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-mcp-gateway&title=Using%2520MCP%2520Servers%2520with%2520the%2520MCP%2520Gateway)
 
+### **Security**
+
+- ⭐⭐⭑ [Building secure container images](https://github.com/dockersamples/labspace-building-secure-images) (Docker)
+    - Learn to build better and more secure container images with Docker Scout
+    - Published repo: `dockersamples/labspace-building-secure-images`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-building-secure-images&title=Building%2520secure%2520container%2520images)
+
