@@ -7,6 +7,8 @@ tags:
     label: Getting Started
   - name: mcp-gateway
     label: MCP Gateway
+  - name: security
+    label: Security
 
 labspaces:
   - title: Container-supported development
@@ -33,4 +35,16 @@ labspaces:
       - ai
       - mcp-gateway
       - getting-started
+    highlighted: true
+
+  - title: Building secure container images
+    description: |
+      Learn to build better and more secure container images with Docker Scout
+    repo: https://github.com/dockersamples/labspace-building-secure-images
+    publishedRepo: dockersamples/labspace-building-secure-images
+    author: Docker
+    datePublished: 2025-10-01
+    level: Intermediate
+    tags:
+      - security
     highlighted: true
