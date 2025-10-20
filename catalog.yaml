@@ -48,3 +48,14 @@ labspaces:
     tags:
       - security
     highlighted: true
+
+  - title: Fine-tuning models with Docker Offload and Unsloth
+    description: |
+      Learn how to fine-tune lightweight LLMs to meet your application's needs
+    repo: https://github.com/dockersamples/labspace-fine-tuning
+    publishedRepo: dockersamples/labspace-fine-tuning
+    author: Docker
+    datePublished: 2025-10-16
+    level: Intermediate
+    tags:
+      - ai
