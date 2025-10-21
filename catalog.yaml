@@ -11,6 +11,20 @@ tags:
     label: Security
 
 labspaces:
+  - title: Building agentic apps with Docker
+    description: |
+      Get up and going with building agentic applications with Compose, Docker Model Runner, and the Docker MCP Gateway.
+    repo: https://github.com/dockersamples/labspace-agentic-apps-with-docker
+    publishedRepo: dockersamples/labspace-agentic-apps-with-docker
+    author: Docker
+    datePublished: 2025-10-21
+    level: Beginner
+    tags:
+      - ai
+      - dmr
+      - mcp-gateway
+    highlighted: true
+
   - title: Container-supported development
     description: |
       Run databases, debug tools, and more across your entire team with minimal setup.
@@ -21,7 +35,6 @@ labspaces:
     level: Beginner
     tags:
       - getting-started
-    highlighted: true
 
   - title: Using MCP Servers with the MCP Gateway
     description: |
