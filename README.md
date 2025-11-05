@@ -70,4 +70,8 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Learn to build better and more secure container images with Docker Scout
     - Published repo: `dockersamples/labspace-building-secure-images`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-building-secure-images&title=Building%2520secure%2520container%2520images)
+- ⭐⭐⭑ [Docker DHI - Node](https://github.com/dockersamples/labspace-dhi-node) (Docker)
+    - Convert a Node.js application to use Docker Hardened Images (DHI) and see the improved security results.
+    - Published repo: `dockersamples/labspace-dhi-node`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-dhi-node&title=Docker%2520DHI%2520-%2520Node)
 
