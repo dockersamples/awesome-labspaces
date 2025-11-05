@@ -72,3 +72,14 @@ labspaces:
     level: Intermediate
     tags:
       - ai
+
+  - title: Docker DHI - Node
+    description: |
+      Convert a Node.js application to use Docker Hardened Images (DHI) and see the improved security results.
+    repo: https://github.com/dockersamples/labspace-dhi-node
+    publishedRepo: dockersamples/labspace-dhi-node
+    author: Docker
+    datePublished: 2025-11-05
+    level: Intermediate
+    tags:
+      - security
