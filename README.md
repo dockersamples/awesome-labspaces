@@ -35,23 +35,19 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Published repo: `dockersamples/labspace-fine-tuning`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-fine-tuning&title=Fine-tuning%2520models%2520with%2520Docker%2520Offload%2520and%2520Unsloth)
 
+### **Development**
+
+- ⭐⭑⭑ [Container-supported development](https://github.com/dockersamples/labspace-container-supported-development) (Docker)
+    - Run databases, debug tools, and more across your entire team with minimal setup.
+    - Published repo: `dockersamples/labspace-container-supported-development`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-container-supported-development&title=Container-supported%2520development)
+
 ### **Docker Model Runner**
 
 - ⭐⭑⭑ [Building agentic apps with Docker](https://github.com/dockersamples/labspace-agentic-apps-with-docker) (Docker)
     - Get up and going with building agentic applications with Compose, Docker Model Runner, and the Docker MCP Gateway.
     - Published repo: `dockersamples/labspace-agentic-apps-with-docker`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-agentic-apps-with-docker&title=Building%2520agentic%2520apps%2520with%2520Docker)
-
-### **Getting Started**
-
-- ⭐⭑⭑ [Container-supported development](https://github.com/dockersamples/labspace-container-supported-development) (Docker)
-    - Run databases, debug tools, and more across your entire team with minimal setup.
-    - Published repo: `dockersamples/labspace-container-supported-development`
-    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-container-supported-development&title=Container-supported%2520development)
-- ⭐⭑⭑ [Using MCP Servers with the MCP Gateway](https://github.com/dockersamples/labspace-mcp-gateway) (Docker)
-    - Learn how to use the Docker MCP Gateway to provide your agentic applications with the tools they need to perform complex tasks.
-    - Published repo: `dockersamples/labspace-mcp-gateway`
-    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-mcp-gateway&title=Using%2520MCP%2520Servers%2520with%2520the%2520MCP%2520Gateway)
 
 ### **MCP Gateway**
 
