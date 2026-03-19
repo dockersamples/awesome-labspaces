@@ -1,16 +1,85 @@
 tags:
   - name: ai
     label: AI
+  - name: build
+    label: Build
+  - name: compose
+    label: Compose
+  - name: containers
+    label: Containers
   - name: development
     label: Development
   - name: dmr
     label: Docker Model Runner
+  - name: kubernetes
+    label: Kubernetes
   - name: mcp-gateway
     label: MCP Gateway
   - name: security
     label: Security
+  - name: testcontainers
+    label: Testcontainers
 
 labspaces:
+  - title: Getting started with containers
+    description: |
+      Run your first container, build and push your first image, and learn the basics of the Docker CLI.
+    repo: https://github.com/dockersamples/labspace-container-getting-started 
+    publishedRepo: dockersamples/labspace-container-getting-started
+    author: Docker
+    datePublished: 2026-03-19
+    level: Beginner
+    tags:
+      - containers
+
+  - title: Building container images
+    description: |
+      Learn how to write a Dockerfile, build container images, and follow several build best practices.
+    repo: https://github.com/dockersamples/labspace-building-images
+    publishedRepo: dockersamples/labspace-building-images
+    author: Docker
+    datePublished: 2026-03-19
+    level: Intermediate
+    tags:
+      - containers
+      - build
+
+  - title: Getting started with Docker Compose
+    description: |
+      Get hands-on with Docker Compose to run multi-service apps. Learn how to control startup order, use watch mode, and more.
+    repo: https://github.com/dockersamples/labspace-compose-quickstart/ 
+    publishedRepo: dockersamples/labspace-compose-quickstart
+    author: Docker
+    datePublished: 2026-03-19
+    level: Intermediate
+    tags:
+      - compose
+
+  - title: Containers across the SDLC
+    description: |
+      Experience how containers enhance development, support CI pipelines, and can be deployed in this end-to-end SDLC experience.
+    repo: https://github.com/dockersamples/labspace-containerized-sdlc 
+    publishedRepo: dockersamples/labspace-containerized-sdlc
+    author: Docker
+    datePublished: 2026-03-19
+    level: Intermediate
+    tags:
+      - containers
+      - development
+      - testcontainers
+      - kubernetes
+
+  - title: AI Fundamentals
+    description: |
+      Go behind the scenes with AI to learn how it works - from the chat completions API to prompt engineering to tool calling and more.
+    repo: https://github.com/dockersamples/labspace-ai-fundamentals
+    publishedRepo: dockersamples/labspace-ai-fundamentals
+    author: Docker
+    datePublished: 2025-09-10
+    level: Beginner
+    tags:
+      - ai
+
   - title: Building agentic apps with Docker
     description: |
       Get up and going with building agentic applications with Compose, Docker Model Runner, and the Docker MCP Gateway.
