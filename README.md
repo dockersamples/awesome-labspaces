@@ -22,6 +22,10 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
 
 ### **AI**
 
+- ⭐⭑⭑ [AI Fundamentals](https://github.com/dockersamples/labspace-ai-fundamentals) (Docker)
+    - Go behind the scenes with AI to learn how it works - from the chat completions API to prompt engineering to tool calling and more.
+    - Published repo: `dockersamples/labspace-ai-fundamentals`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-ai-fundamentals&title=AI%2520Fundamentals)
 - ⭐⭑⭑ [Building agentic apps with Docker](https://github.com/dockersamples/labspace-agentic-apps-with-docker) (Docker)
     - Get up and going with building agentic applications with Compose, Docker Model Runner, and the Docker MCP Gateway.
     - Published repo: `dockersamples/labspace-agentic-apps-with-docker`
@@ -35,8 +39,41 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Published repo: `dockersamples/labspace-fine-tuning`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-fine-tuning&title=Fine-tuning%2520models%2520with%2520Docker%2520Offload%2520and%2520Unsloth)
 
+### **Build**
+
+- ⭐⭐⭑ [Building container images](https://github.com/dockersamples/labspace-building-images) (Docker)
+    - Learn how to write a Dockerfile, build container images, and follow several build best practices.
+    - Published repo: `dockersamples/labspace-building-images`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-building-images&title=Building%2520container%2520images)
+
+### **Compose**
+
+- ⭐⭐⭑ [Getting started with Docker Compose](https://github.com/dockersamples/labspace-compose-quickstart/) (Docker)
+    - Get hands-on with Docker Compose to run multi-service apps. Learn how to control startup order, use watch mode, and more.
+    - Published repo: `dockersamples/labspace-compose-quickstart`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-compose-quickstart&title=Getting%2520started%2520with%2520Docker%2520Compose)
+
+### **Containers**
+
+- ⭐⭑⭑ [Getting started with containers](https://github.com/dockersamples/labspace-container-getting-started) (Docker)
+    - Run your first container, build and push your first image, and learn the basics of the Docker CLI.
+    - Published repo: `dockersamples/labspace-container-getting-started`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-container-getting-started&title=Getting%2520started%2520with%2520containers)
+- ⭐⭐⭑ [Building container images](https://github.com/dockersamples/labspace-building-images) (Docker)
+    - Learn how to write a Dockerfile, build container images, and follow several build best practices.
+    - Published repo: `dockersamples/labspace-building-images`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-building-images&title=Building%2520container%2520images)
+- ⭐⭐⭑ [Containers across the SDLC](https://github.com/dockersamples/labspace-containerized-sdlc) (Docker)
+    - Experience how containers enhance development, support CI pipelines, and can be deployed in this end-to-end SDLC experience.
+    - Published repo: `dockersamples/labspace-containerized-sdlc`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-containerized-sdlc&title=Containers%2520across%2520the%2520SDLC)
+
 ### **Development**
 
+- ⭐⭐⭑ [Containers across the SDLC](https://github.com/dockersamples/labspace-containerized-sdlc) (Docker)
+    - Experience how containers enhance development, support CI pipelines, and can be deployed in this end-to-end SDLC experience.
+    - Published repo: `dockersamples/labspace-containerized-sdlc`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-containerized-sdlc&title=Containers%2520across%2520the%2520SDLC)
 - ⭐⭑⭑ [Container-supported development](https://github.com/dockersamples/labspace-container-supported-development) (Docker)
     - Run databases, debug tools, and more across your entire team with minimal setup.
     - Published repo: `dockersamples/labspace-container-supported-development`
@@ -48,6 +85,13 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Get up and going with building agentic applications with Compose, Docker Model Runner, and the Docker MCP Gateway.
     - Published repo: `dockersamples/labspace-agentic-apps-with-docker`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-agentic-apps-with-docker&title=Building%2520agentic%2520apps%2520with%2520Docker)
+
+### **Kubernetes**
+
+- ⭐⭐⭑ [Containers across the SDLC](https://github.com/dockersamples/labspace-containerized-sdlc) (Docker)
+    - Experience how containers enhance development, support CI pipelines, and can be deployed in this end-to-end SDLC experience.
+    - Published repo: `dockersamples/labspace-containerized-sdlc`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-containerized-sdlc&title=Containers%2520across%2520the%2520SDLC)
 
 ### **MCP Gateway**
 
@@ -70,4 +114,11 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Convert a Node.js application to use Docker Hardened Images (DHI) and see the improved security results.
     - Published repo: `dockersamples/labspace-dhi-node`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-dhi-node&title=Migrating%2520to%2520DHI%2520-%2520Node)
+
+### **Testcontainers**
+
+- ⭐⭐⭑ [Containers across the SDLC](https://github.com/dockersamples/labspace-containerized-sdlc) (Docker)
+    - Experience how containers enhance development, support CI pipelines, and can be deployed in this end-to-end SDLC experience.
+    - Published repo: `dockersamples/labspace-containerized-sdlc`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-containerized-sdlc&title=Containers%2520across%2520the%2520SDLC)
 
