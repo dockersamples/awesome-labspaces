@@ -78,6 +78,10 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Run databases, debug tools, and more across your entire team with minimal setup.
     - Published repo: `dockersamples/labspace-container-supported-development`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-container-supported-development&title=Container-supported%2520development)
+- ⭐⭑⭑ [Introduction to Testcontainers - Java](https://github.com/dockersamples/labspace-testcontainers-java) (Docker)
+    - Learn how to use Testcontainers to run your tests against real dependencies in Docker containers.
+    - Published repo: `dockersamples/labspace-testcontainers-java`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-testcontainers-java&title=Introduction%2520to%2520Testcontainers%2520-%2520Java)
 
 ### **Docker Model Runner**
 
@@ -121,4 +125,8 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Experience how containers enhance development, support CI pipelines, and can be deployed in this end-to-end SDLC experience.
     - Published repo: `dockersamples/labspace-containerized-sdlc`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-containerized-sdlc&title=Containers%2520across%2520the%2520SDLC)
+- ⭐⭑⭑ [Introduction to Testcontainers - Java](https://github.com/dockersamples/labspace-testcontainers-java) (Docker)
+    - Learn how to use Testcontainers to run your tests against real dependencies in Docker containers.
+    - Published repo: `dockersamples/labspace-testcontainers-java`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-testcontainers-java&title=Introduction%2520to%2520Testcontainers%2520-%2520Java)
 
