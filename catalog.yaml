@@ -118,6 +118,18 @@ labspaces:
       - mcp-gateway
     highlighted: true
 
+  - title: Introduction to Testcontainers - Java
+    description: |
+      Learn how to use Testcontainers to run your tests against real dependencies in Docker containers.
+    repo: https://github.com/dockersamples/labspace-testcontainers-java
+    publishedRepo: dockersamples/labspace-testcontainers-java
+    author: Docker
+    datePublished: 2026-03-20
+    level: Beginner
+    tags:
+      - testcontainers
+      - development
+
   - title: Building secure container images
     description: |
       Learn to build better and more secure container images with Docker Scout
