@@ -38,6 +38,10 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Learn how to fine-tune lightweight LLMs to meet your application&#x27;s needs
     - Published repo: `dockersamples/labspace-fine-tuning`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-fine-tuning&title=Fine-tuning%2520models%2520with%2520Docker%2520Offload%2520and%2520Unsloth)
+- ⭐⭐⭑ [Building a Local AI Product Reviewer with Docker Model Runner](https://github.com/dockersamples/labspace-creating-ai-product-reviewer) (Docker)
+    - Build a complete feedback analysis pipeline for a fictional AI product called Jarvis — using local LLMs and embeddings via Docker Model Runner
+    - Published repo: `dockersamples/labspace-creating-ai-product-reviewer`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-creating-ai-product-reviewer&title=Building%2520a%2520Local%2520AI%2520Product%2520Reviewer%2520with%2520Docker%2520Model%2520Runner)
 
 ### **Build**
 
@@ -89,6 +93,10 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Get up and going with building agentic applications with Compose, Docker Model Runner, and the Docker MCP Gateway.
     - Published repo: `dockersamples/labspace-agentic-apps-with-docker`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-agentic-apps-with-docker&title=Building%2520agentic%2520apps%2520with%2520Docker)
+- ⭐⭐⭑ [Building a Local AI Product Reviewer with Docker Model Runner](https://github.com/dockersamples/labspace-creating-ai-product-reviewer) (Docker)
+    - Build a complete feedback analysis pipeline for a fictional AI product called Jarvis — using local LLMs and embeddings via Docker Model Runner
+    - Published repo: `dockersamples/labspace-creating-ai-product-reviewer`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-creating-ai-product-reviewer&title=Building%2520a%2520Local%2520AI%2520Product%2520Reviewer%2520with%2520Docker%2520Model%2520Runner)
 
 ### **Kubernetes**
 
