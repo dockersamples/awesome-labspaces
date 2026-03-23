@@ -163,3 +163,15 @@ labspaces:
     level: Intermediate
     tags:
       - security
+
+  - title: Building a Local AI Product Reviewer with Docker Model Runner
+    description: |
+      Build a complete feedback analysis pipeline for a fictional AI product called Jarvis — using local LLMs and embeddings via Docker Model Runner
+    repo: https://github.com/dockersamples/labspace-creating-ai-product-reviewer
+    publishedRepo: dockersamples/labspace-creating-ai-product-reviewer
+    author: Docker
+    datePublished: 2026-03-23
+    level: Intermediate
+    tags:
+      - ai
+      - dmr
