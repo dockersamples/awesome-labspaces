@@ -174,4 +174,14 @@ labspaces:
     level: Intermediate
     tags:
       - ai
-      - dmr
+
+  - title: Understanding Container Image Attestations
+    description: |
+      Learn about and how to attach SBOMs, build provenance, VEX statements, and cryptographic signatures to container images for a stronger software supply chain.
+    repo: https://github.com/dockersamples/labspace-attestation-basics
+    publishedRepo: dockersamples/labspace-attestation-basics
+    author: Docker
+    datePublished: 2026-03-24
+    level: Beginner
+    tags:
+      - security
