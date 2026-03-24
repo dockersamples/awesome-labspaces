@@ -93,10 +93,6 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Get up and going with building agentic applications with Compose, Docker Model Runner, and the Docker MCP Gateway.
     - Published repo: `dockersamples/labspace-agentic-apps-with-docker`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-agentic-apps-with-docker&title=Building%2520agentic%2520apps%2520with%2520Docker)
-- ⭐⭐⭑ [Building a Local AI Product Reviewer with Docker Model Runner](https://github.com/dockersamples/labspace-creating-ai-product-reviewer) (Docker)
-    - Build a complete feedback analysis pipeline for a fictional AI product called Jarvis — using local LLMs and embeddings via Docker Model Runner
-    - Published repo: `dockersamples/labspace-creating-ai-product-reviewer`
-    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-creating-ai-product-reviewer&title=Building%2520a%2520Local%2520AI%2520Product%2520Reviewer%2520with%2520Docker%2520Model%2520Runner)
 
 ### **Kubernetes**
 
@@ -126,6 +122,10 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Convert a Node.js application to use Docker Hardened Images (DHI) and see the improved security results.
     - Published repo: `dockersamples/labspace-dhi-node`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-dhi-node&title=Migrating%2520to%2520DHI%2520-%2520Node)
+- ⭐⭑⭑ [Understanding Container Image Attestations](https://github.com/dockersamples/labspace-attestation-basics) (Docker)
+    - Learn about and how to attach SBOMs, build provenance, VEX statements, and cryptographic signatures to container images for a stronger software supply chain.
+    - Published repo: `dockersamples/labspace-attestation-basics`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-attestation-basics&title=Understanding%2520Container%2520Image%2520Attestations)
 
 ### **Testcontainers**
 
