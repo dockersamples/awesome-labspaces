@@ -174,3 +174,14 @@ labspaces:
     level: Beginner
     tags:
       - security
+
+  - title: Compose Quickstart
+    description: |
+      Learn the basics of how to use Docker Compose to run multi-container apps, control startup order, persist data with volumes, and more.
+    repo: https://github.com/dockersamples/labspace-compose-quickstart
+    publishedRepo: dockersamples/labspace-compose-quickstart
+    author: Docker
+    datePublished: 2026-05-08
+    level: Beginner
+    tags:
+      - compose
