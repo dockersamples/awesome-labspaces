@@ -52,6 +52,10 @@ Each Labspace is categorized by tags. Below is the list of available Labspaces (
     - Get hands-on with Docker Compose to run multi-service apps. Learn how to control startup order, use watch mode, and more.
     - Published repo: `dockersamples/labspace-compose-quickstart`
     - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-compose-quickstart&title=Getting%2520started%2520with%2520Docker%2520Compose)
+- ⭐⭑⭑ [Compose Quickstart](https://github.com/dockersamples/labspace-compose-quickstart) (Docker)
+    - Learn the basics of how to use Docker Compose to run multi-container apps, control startup order, persist data with volumes, and more.
+    - Published repo: `dockersamples/labspace-compose-quickstart`
+    - [Open in Docker Desktop](http://open.docker.com/dashboard/extension-tab?extensionId=dockersamples%2Flabspace-extension&location=dockersamples%252Flabspace-compose-quickstart&title=Compose%2520Quickstart)
 
 ### **Containers**
 
